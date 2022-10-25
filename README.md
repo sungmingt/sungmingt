@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://velog.io/@bagt" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=velog&logoColor=20C997"/></a>
+
+
+
+
 <!--
 **sungmingt/sungmingt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
