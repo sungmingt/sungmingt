@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=CCF9D0&height=110&section=header&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=CCF9D0&height=50&section=header&animation=twinkling)
 
 ## 🙋🏻‍♂️ Sungmin Bae  |  backend developer
 
