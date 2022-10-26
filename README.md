@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=CCF9D0&height=100&section=header&fontSize=70)
 
 ## 🙋🏻‍♂️ Sungmin Bae  |  backend developer
 
@@ -48,5 +47,8 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=CCF9D0&height=50&section=header&animation=twinkling)
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=CCF9D0&height=100&section=header&fontSize=70)
 
 -->
