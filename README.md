@@ -9,17 +9,15 @@
 <a href="mailto:iljeo9215@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-F4F6F8?style=flat&logo=gmail&logoColor=EA4335"/></a>
 
 
-
-
-
 ### Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Java-9923F0?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-9923F0?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-AWS&logoColor=white">
 </p>
 
 
