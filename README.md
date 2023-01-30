@@ -12,16 +12,36 @@
 ### Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Java-FF6347?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/QueryDSL-512BD4?style=flat-square&logo=QueryDSL&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-FF6347?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/QueryDSL-512BD4?style=for-the-badge&logo=QueryDSL&logoColor=white">
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-AWS&logoColor=white">
 </p>
 
+<br>
+
+### 📚 Studied & Studying ...
+
+- Spring
+  - [Github](https://github.com/sungmingt/spring-mvc)
+  - [Blog](https://velog.io/@bagt/series/Spring)
+- QueryDsl & JPA
+  - [Github](https://github.com/sungmingt/querydsl-study)
+  - [Blog](https://velog.io/@bagt/series/JPA)
+- Infrastructure(AWS, Jenkins ...)
+  - [Github](https://github.com/sungmingt/jenkins-deployment)
+  - [Blog](https://velog.io/@bagt/series/AWS)
+- [Clean Architecture](https://github.com/sungmingt/clean-architecture)
+- [CS (Computer Science)](https://velog.io/@bagt/series/CS)
+- [Algorithm](https://github.com/sungmingt/algorithm-basic)
+- [Database](https://velog.io/@bagt/series/Database)
 
 <!--
 **sungmingt/sungmingt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
