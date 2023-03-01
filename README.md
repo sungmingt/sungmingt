@@ -13,7 +13,6 @@
 <p>
   <img src="https://img.shields.io/badge/Java-FF6347?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/QueryDSL-512BD4?style=flat-square&logo=QueryDSL&logoColor=white">
   
@@ -59,6 +58,7 @@ Here are some ideas to get you started:
 <a href="mailto:iljeo9215@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iljeo9215@gmail.com-F2F3F4?style=flat-square&logo=Gmail&logoColor=red"/></a>
 [![iljeo9215@gmail.com - Gmail](https://img.shields.io/static/v1?label=Gmail&message=iljeo9215@gmail.com&color=E16259&style=flat)](https://eastern-starflower-6ac.notion.site/203ddcc7f3d74e4e819acac3627d9e26) 
 
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=CCF9D0&height=50&section=header&animation=twinkling)
 
