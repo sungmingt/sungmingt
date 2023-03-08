@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-AWS&logoColor=white">
 </p>
 
-<br>
-
 ### 📚 Studied & Studying ...
 
 - Spring
