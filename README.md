@@ -1,7 +1,6 @@
 
 
-## 🙋🏻‍♂️ Sungmin Bae  |  backend developer
-
+## Sungmin Bae
 
 ### 📪 Social
 <a href="https://velog.io/@bagt" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=velog&logoColor=20C997"/></a>
